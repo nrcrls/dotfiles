@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = nikkirosecarlos@gmail.com
+	name = Nikki Carlos
